@@ -1,4 +1,12 @@
 My Own Sake Tasks
 
+HELP?
+
+Brasigo task:
+sake brasigo USER=bastos
+
+Hpricot task:
+Just for dependecy
+
 About Sake: 
 http://github.com/defunkt/sake/tree
